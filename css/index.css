@@ -667,7 +667,7 @@ a
     {
         display: grid;
         grid-template-columns: 2fr 11fr 2fr;
-        background-image: url("/images/background.png");
+        background-image: url("../images/background.png");
     }
 
 
